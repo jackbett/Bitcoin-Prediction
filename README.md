@@ -1,4 +1,5 @@
 Bitcoin-Prediction
+---------
 Use Jupyter Notebook and Python to predict monthly Bitcoin prices using linear regression.
 Using yearly bitcoin data stored in a csv, I extracted monthly data for October, November, and 
 December 2018 and plotted it on a graph.  I then used 3 types of linear regression (RBF, Linear, 
